@@ -12,3 +12,7 @@ This repo is my public learning log as I build hands-on system administration ex
 ## Current lab
 - DC01 (Windows Server Domain Controller)
 - GT01 (Windows 11 domain-joined client)
+
+## Learning roadmap
+- Phase 1: Active Directory & Domain Foundations ✅
+- Phase 2: Endpoint Management & Group Policy (up next)
