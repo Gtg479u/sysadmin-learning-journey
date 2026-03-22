@@ -105,17 +105,13 @@ Configured domain password policy:
 
 ## 📸 Screenshots
 
-### OU Structure
-![OU Structure](./screenshots/ou-structure.png)
+### 🏢 OU Structure
+![OU Structure](screenshots/ou-structure.png)
 
----
+### 🔗 Drive Mapping
+![Drive Mapping](screenshots/drive-mapping.png)
 
-### Drive Mapping
-![Drive Mapping](./screenshots/drive-mapping.png)
-
----
-
-### Group Membership
-![Group Membership](./screenshots/group-membership.png)
+### 🔐 Group Membership
+![Group Membership](screenshots/group-membership.png)
 
 
