@@ -102,3 +102,20 @@ Configured domain password policy:
 - How to automate user creation with PowerShell
 - How to troubleshoot DNS and domain join issues
 - How permissions and access control are applied in real environments
+
+## 📸 Screenshots
+
+### OU Structure
+![OU Structure](./screenshots/ou-structure.png)
+
+---
+
+### Drive Mapping
+![Drive Mapping](./screenshots/drive-mapping.png)
+
+---
+
+### Group Membership
+![Group Membership](./screenshots/group-membership.png)
+
+
