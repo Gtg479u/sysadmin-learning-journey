@@ -47,9 +47,10 @@ The goal with GT01 was to understand what actually happens on the client side wh
 - Verifying access to SYSVOL and NETLOGON is a simple but powerful way to confirm domain connectivity
 - Client-side issues are just as important to understand as server-side configuration
 
-## Next Steps
-- Add additional client machines to compare behavior
-- Test login failures by intentionally breaking DNS
-- Apply Group Policy to GT01 and observe the results
-- Document login behavior and event logs on the client
+## What I plan to test next
+
+- Add additional client machines to compare behavior  
+- Intentionally break DNS to better understand login failures  
+- Expand Group Policy testing across different users  
+- Review Event Viewer logs to understand authentication and login behavior  
 
