@@ -1,7 +1,14 @@
 # DC01 Domain Controller Setup (Active Directory Lab)
 
 ## Goal
-I wanted to actually understand what Active Directory is doing behind the scenes instead of just knowing the terminology. I kept running into login and access issues at work and wanted to recreate those problems in a lab where I could see exactly what was happening. I didn’t want to just follow a guide — I wanted to break things, fix them, and understand why they worked once they were fixed.
+
+I wanted to understand how Active Directory actually works from the ground up instead of just knowing the terminology.
+
+At work, I see things like account issues, access problems, and domain-related errors, but I didn’t fully understand what was happening behind the scenes. I wanted to recreate those same types of situations in a lab so I could see how everything is connected and how to troubleshoot it myself.
+
+The goal wasn’t just to follow steps it was to build the environment, break things, fix them, and understand why they worked once they were fixed.
+
+I’m aiming to build a strong foundation so I can grow into a system administrator role and be confident handling real-world issues.
 
 ## Environment
 - Hypervisor: VirtualBox (fresh rebuild on a new computer)
@@ -45,6 +52,7 @@ I wanted to actually understand what Active Directory is doing behind the scenes
 - Sometimes commands are running correctly even when they don’t show output right away
 
 ## Next Steps
-- Create and test Group Policy Objects (GPOs)
-- Add additional client VMs
-- Configure shared folders and home directories
+
+- Add additional client machines to simulate a larger environment  
+- Configure user home directories  
+- Expand Group Policy configurations (account lockout, auditing, etc.)  
